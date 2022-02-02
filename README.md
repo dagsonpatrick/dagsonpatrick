@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on computer vision and image processig projects
 - 🌱 I’m currently learning ReactJS e NextJS
 - 👯 I’m looking to collaborate on computer vision projects
-- 📫 How to reach me: dagsonmg@yahoo.com.br
+- 📫 How to reach me: dagsonmg@gmail.com
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dagsonpatrick)](https://github.com/dagsonpatrick)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dagson-souza-23807450/)](https://www.linkedin.com/in/dagson-souza-23807450/)
