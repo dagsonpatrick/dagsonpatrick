@@ -7,6 +7,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dagson-souza-23807450/)](https://www.linkedin.com/in/dagson-souza-23807450/)
 
+![](https://visitor-badge.glitch.me/badge?page_id=dagsonpatrick)
+
 ## Education
 
 - 🎓 B.S. in Information System from the University Federal of Ouro Preto - UFOP (2014)
