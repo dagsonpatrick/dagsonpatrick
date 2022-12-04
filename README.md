@@ -5,8 +5,10 @@
 - 👯 I’m looking to collaborate on computer vision projects
 - 📫 How to reach me: dagsonmg@gmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dagson-souza-23807450/)](https://www.linkedin.com/in/dagson-souza-23807450/)
-![](https://visitor-badge.glitch.me/badge?page_id=dagsonpatrick)
+<a href="https://www.linkedin.com/in/dagson-souza-23807450" target="_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.instagram.com/dagsonsouza" target="_blank">
+ <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
 ## Education
 
