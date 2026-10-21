@@ -1,7 +1,6 @@
 # Hi, I'm Dagson!
 
 - 🔭 I’m currently working on computer vision and image processig projects
-- 🌱 I’m currently learning ReactJS e NextJS
 - 👯 I’m looking to collaborate on computer vision projects
 - 📫 How to reach me: dagsonmg@gmail.com
 
