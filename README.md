@@ -20,6 +20,7 @@
  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
  <img src="https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=flask&logoColor=white" alt="FastAPI" />
+ ![OpenCV](https://shields.io)
  
 </p>
 
